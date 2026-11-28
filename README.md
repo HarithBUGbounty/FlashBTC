@@ -18,7 +18,7 @@ I built FlashBTC PRO as a reverse-engineering project and a UI demonstration. It
 
 ## Features
 
-* **Password Protected:** Gated entry (`Get at password.txt inside the folder`)
+* **Password Protected:** Gated entry (`Get at password.txt inside the FlashBTC-PRO folder`)
 * **Auto-Detect Hardware:** Scans Windows logical drives for removable USB storage devices.
 * **Payload Generation:** Generates a mock `FlashBTC_Receipt.json` file containing a fake TXID, timestamp, and target address, writing it to both the local disk and any detected USB drives.
 * **Wallet Popup:** A graphical modal that mimics a Trust Wallet deposit screen.
